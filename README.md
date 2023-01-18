@@ -30,6 +30,8 @@ This directory contains the lab manual.
 ### `manual_code`
 This directory contains starter code of each lab.
 
+Test commit
+
 ### `scripts`
 This directory contains some utility scripts.
 
